@@ -4,9 +4,9 @@ Repositori ini berisi notebook Colab untuk mendeteksi ekspresi wajah menggunakan
 
 ## File yang Tersedia
 
+- **FaceExpressionDetection.ipynb**: Digunakan untuk perancangan dan melatih model deteksi ekspresi wajah.
 - **ExpressionRecognitionImage.ipynb**: Digunakan untuk mendeteksi ekspresi wajah pada gambar statis.
 - **ExpressionRecognitionWebcam.ipynb**: Digunakan untuk mendeteksi ekspresi wajah secara real-time melalui webcam.
-- **FaceExpressionDetection.ipynb**: Notebook ini berisi kode untuk melatih model deteksi ekspresi wajah.
 
 ## Cara Mengunduh Model
 
